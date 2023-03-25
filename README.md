@@ -1,10 +1,5 @@
 ### Hi there 👋
-<div>
-<p><a href="https://www.linkedin.com/in/marcello-naz%C3%A1rio-0a3ba0122/"><img src="https://github.com/marcellonaz/marcellonaz/blob/main/readme-Img/Marcello%20Naz%C3%A1rio.mp4" width="100%" height="auto"/></a></p>
-<p align="right">
-   <a style="text-align: right; padding: 0px;" href="https://www.youtube.com/channel/dfilitto" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/dfilitto" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/dfilitto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/marcello-naz%C3%A1rio-0a3ba0122/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </p>
 </div>
 <!--
